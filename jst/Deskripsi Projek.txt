@@ -1,0 +1,13 @@
+Anggota : Elsa Maylina P.R	123180024
+      	  Deva Adzany K.P 	123180064
+
+
+Deskripsi Singkat Projek
+1. Sistem teknologi klasifikasi status gizi dengan konsep jaringan syaraf tiruan merupakan sistem yang berbasis web
+2. Pada program ini menggunakan metode jaringan syaraf tiruan perceptron
+3. Parameter yang digunakan yaitu parameter berat badan, tinggi badan, dan aktivitas harian
+4. Jalannya program :
+	- input data terlebih dahulu
+	- lalu sistem akan mendeteksi status golongan gizi dengan pelatihan perceptron
+	- golongan gizi ada 3 yaitu normal, kurang, dan berlebih
+	- lalu disediakan data gizi berupa angka,data normalisasi dan perhitungan perceptronnya
